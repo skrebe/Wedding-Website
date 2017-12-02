@@ -10,8 +10,6 @@ Please fill in the RSVPs, which you can find at the bottom of the page ;)
 
 # [](#header-1) Pre-wedding drinks
 
-### [](#header-3) Arrival drinks
-
 Friday evening, 24th August 2018, Location TBC.
 For those who can make to Vilnius early, we will be hosting a few drinks in Vilnius. It will be a great opportunity to meet and catch up with fellow wedding guests. Hope you see you there!
 
