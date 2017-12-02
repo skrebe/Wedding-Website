@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-### 2018-08-25
+
+We have created this website to help our family and friends learn more details and get latest updates about the big day! We hope this will help you with planning the logistics and practicalities, whether you are coming from close or far :)
+
+Please fill in the RSVPs, which you can find at the bottom of the page 😉
 
 ![Ruta & Simonas]({{ "/R&S.jpg" }})
 
