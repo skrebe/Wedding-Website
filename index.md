@@ -4,9 +4,12 @@ layout: default
 
 We have created this website to help our family and friends learn more details and get latest updates about the big day! We hope this will help you with planning the logistics and practicalities, whether you are coming from close or far :)
 
-Please fill in the RSVPs, which you can find at the bottom of the page ;)
+Please follow this link to confirm your attendance.
+[Confirm attendance](https://goo.gl/forms/wyQai8KV5ln7l2M03)
 
-![Ruta & Simonas]({{ "/R&S.jpg" }})
+
+![Ruta & Simonas]({{ "/R&Small.jpg" }})
+
 
 # [](#header-1) Pre-wedding drinks
 
@@ -54,8 +57,3 @@ Vilnius airport is only 15km away from Vilnius downtown. There is a train connec
 ### [](#header-3) Accommodation in Vilnius
 
 We recommend staying in the old town 'Senamiestis' or 'Uzupis' – these are at the heart of Vilnius and you can walk everywhere by foot. There is a range of hotels and Airbnb from 30 to 100EUR p/n depending on what you are looking for. Let us know if you have any questions or need help with accommodation ;)
-
-# [](#header-1) RSVP
-
-Please follow this link to confirm your attendance.
-[Confirm attendance](https://goo.gl/forms/wyQai8KV5ln7l2M03)
