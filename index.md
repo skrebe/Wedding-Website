@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Welcome to Ruta's and Simonas wedding page
 ---
 
 We have created this website to help our family and friends learn more details and get latest updates about the big day! We hope this will help you with planning the logistics and practicalities, whether you are coming from close or far :)
