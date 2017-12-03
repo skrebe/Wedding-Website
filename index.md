@@ -6,11 +6,10 @@ description: Welcome to Ruta's and Simonas wedding page
 We have created this website to help our family and friends learn more details and get latest updates about the big day! We hope this will help you with planning the logistics and practicalities, whether you are coming from close or far :)
 
 Please follow this link to confirm your attendance.
-[Confirm attendance](https://goo.gl/forms/wyQai8KV5ln7l2M03)
-
+<a href="https://goo.gl/wMygUc" target="blank">Confirm attendance</a>
 
 ![Ruta & Simonas]({{ "/R&Small.jpg" }})
-
+{: .text-center}
 
 # [](#header-1) Pre-wedding drinks
 
@@ -27,7 +26,7 @@ Following the ceremony, please join us for a glass of bubbles.
 The official part will finish at 2:00PM and everyone will be heading to the Smotiskio farm for the big celebration and overnight stay.
 
 ![Rotuse]({{ "/rotuse.jpg" }})
-
+{: .text-center}
 
 
 # [](#header-1) What's next?
@@ -37,13 +36,14 @@ Utenos Rajonas, Lithuania
 55.309558, 25.230053
 
 ![Palapines]({{ "/palapines.jpg" }})
-
+{: .text-center}
 
 # [](#header-1) How to get to Smotiskis?
 
 Follow the directions towards Moletai city.
 
 ![smotiskis]({{ "/smotiskis.jpg" }})
+{: .text-center}
 
 # [](#header-1) Logistics and Practicalities
 
