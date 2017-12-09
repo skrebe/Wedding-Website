@@ -2,7 +2,7 @@
 layout: default
 description: Welcome to Ruta's and Simonas wedding page
 ---
-[English](index)
+[English](en)
 
 Sveiki atvykę į mūsų vestuvių svetainę!
 Ši svetainė jums – musu mylimieji šeimos nariai ir draugai! Cia su jumis noretumeme pasidalinti visomis smulkmenonis kurias turite zimoti apie didžiąją dieną! Tikimės, kad si svetaine padės jums suplanuoti dalivavima vestuvese, nesvarbu ar atvysktate atvyksite iš arti ar toli :)
