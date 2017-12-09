@@ -33,18 +33,28 @@ Oficiali dalis baigsis 14 val., ir visi trauksime į Smotiskio kaima testi svent
 {: .text-center}
 
 
-# [](#header-1) What's next?
+# [](#header-1) Kas toliau?
 
-We will continue the party from 4:00PM at Smotiskio farm.
-Utenos Rajonas, Lithuania
-55.309558, 25.230053
+Oficiali dalis pasibaigs apie 14:00h ir visi sveciai bus laukiami Smotiskio kaime kur tesime linksmybes! Svente Smotiskio kaime prasides 16:00h, taciau galite atvykti anksciau, isikurti, pabendrauti su pauksciukais ir avelem, apziureti pievas ir susipazinti su arkliukais.
+
+Taip pat galite isikurti palapiniu miestelyje ar pirtyje ar kletyje :)
 
 ![Palapines]({{ "/palapines.jpg" }})
 {: .text-center}
 
-# [](#header-1) How to get to Smotiskis?
+# [](#header-1) Kaip nuvykti iki Smotiskio?
 
-Follow the directions towards Moletai city.
+Is Vilniaus vaziuokite i Moletus Ukmerges kryptimi. Kai pasieksite Moletus, sekite zenklus i Balninku kaima. Likus 3 km iki Balnininku sukite i desine 'Laiciai' ir dar pavaziavus apie 1km po desine rasite zenkla i 'Smotisko kaimas' ir E.Skrebes gatve.
+
+Taip pat galite naudoti Google Maps!
+
+Tikslus adresas
+Moletu Rajonas, Lithuania
+55.309558, 25.230053
 
 ![smotiskis]({{ "/smotiskis.jpg" }})
 {: .text-center}
+
+```
+Ieva, ačiū už tobulas iliustracijas :)*
+```

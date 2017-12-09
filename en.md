@@ -12,7 +12,7 @@ Please follow this link to confirm your attendance.
 <a href="https://goo.gl/wMygUc" target="blank">Confirm attendance</a>
 
 ![Ruta & Simonas](/R&Small.jpg)
-{: .text-center .markdown-body img max-width: 50%; box-sizing: content-box; background-color: #fff; }
+{: .text-center .markdown-body img max-width: 50%; box-sizing: content-box; background-color: #000000;}
 
 # [](#header-1) Pre-wedding drinks
 
@@ -66,4 +66,8 @@ Vilnius airport is only 15km away from Vilnius downtown. There is a train connec
 
 ### [](#header-3) Accommodation in Vilnius
 
-We recommend staying in the old town 'Senamiestis' or 'Uzupis' – these are at the heart of Vilnius and you can walk everywhere by foot. There is a range of hotels and Airbnb from 30 to 100EUR p/n depending on what you are looking for. Let us know if you have any questions or need help with accommodation ;)
+We recommend staying in the old town 'Senamiestis' or 'Uzupis' districts – these are at the heart of Vilnius and you can walk everywhere by foot. There is a range of hotels and Airbnb from 30 to 100EUR p/n depending on what you are looking for. Let us know if you have any questions or need help with accommodation ;)
+
+```
+Ieva, thank you for these perfect illustrations :)*
+```
