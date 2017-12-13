@@ -24,7 +24,7 @@ Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti keliems
 
 # [](#header-1) Vestuvių dieną
 
-Vestuvių ceremonija vyks Vilniaus miesto rotušėje. Ceremonija prasidės 13 val. Prašome atvykti 15-20 minučių anksčiau, kad galėtumėte su visiems pasisveikinti ir susirasti mene kurioje vyks ceremonija.
+Vestuvių ceremonija vyks Vilniaus miesto rotušėje. Ceremonija prasidės 13 val. Prašome atvykti 15-20 minučių anksčiau, kad galėtumėte su visais pasisveikinti ir susirasti mene kurioje vyks ceremonija.
 
 Po trumpos ceremonijos (20 min.), mes persikelsime į kitą mene pakelti taure burbuliukų.
 Oficiali dalis baigsis 14 val., ir visi trauksime į Šmotiškio kaimą tęsti šventės su nakvyne.
