@@ -24,9 +24,9 @@ Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti keliems
 
 # [](#header-1) Vestuvių dieną
 
-Vestuvių ceremonija vyks Vilniaus miesto rotušėje. Ceremonija prasidės 13 val. Prašome atvykti 15-20 minučių anksčiau, kad galėtumėte su visais pasisveikinti ir susirasti mene kurioje vyks ceremonija.
+Vestuvių ceremonija vyks Vilniaus miesto rotušėje. Ceremonija prasidės 13 val. Prašome atvykti 15-20 minučių anksčiau, kad galėtumėte su visais pasisveikinti ir susirasti menę kurioje vyks ceremonija.
 
-Po trumpos ceremonijos (20 min.), mes persikelsime į kitą mene pakelti taure burbuliukų.
+Po trumpos ceremonijos (20 min.), mes persikelsime į kitą menę pakelti taurę burbuliukų.
 Oficiali dalis baigsis 14 val., ir visi trauksime į Šmotiškio kaimą tęsti šventės su nakvyne.
 
 
@@ -36,7 +36,7 @@ Oficiali dalis baigsis 14 val., ir visi trauksime į Šmotiškio kaimą tęsti �
 
 # [](#header-1) Kas toliau?
 
-Oficiali dalis pasibaigs apie 14:00h ir visi svečiai bus laukiami Šmotiškio kaime kur tesime linksmybes! Šventė Šmotiškio kaime prasidės 16:00h, tačiau galite atvykti anksčiau, įsikurti, pabendrauti su paukščiukais ir avelėm, apžiūrėti pievas ir susipažinti su arkliukais.
+Oficiali dalis pasibaigs apie 14:00h ir visi svečiai bus laukiami Šmotiškio kaime kur tęsime linksmybes! Šventė Šmotiškio kaime prasidės 16:00h, tačiau galite atvykti anksčiau, įsikurti, pabendrauti su paukščiukais ir avelėm, apžiūrėti pievas ir susipažinti su arkliukais.
 
 Taip pat galite įsikurti palapinių miestelyje ar pirtyje, ar klėtyje :)
 
