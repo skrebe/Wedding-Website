@@ -6,11 +6,9 @@ description: Welcome to Ruta's and Simonas wedding page
 
 [English](en)
 
-Sveiki atvykę į mūsų vestuvių svetainę!
+Ši svetainė jums – mūsų mylimieji šeimos nariai ir draugai! Čia su jumis norėtumėme pasidalinti visomis smulkmenomis kurias turite žinoti apie didžiąją dieną! Tikimės, kad ši svetainė padės jums suplanuoti dalyvavimą vestuvėse, nesvarbu ar atvyksite iš arti ar toli :)
 
-Ši svetainė jums – mūsų mylimieji šeimos nariai ir draugai! Čia su jumis norėtumėme pasidalinti visomis smulkmenomis kurias turite žinoti apie didžiąją dieną! Tikimės, kad si svetaine padės jums suplanuoti dalyvavimą vestuvėse, nesvarbu ar atvyksite iš arti ar toli :)
-
-Apie dalyvavimą praneškite užpildydami šią formą ⚐
+Apie dalyvavimą praneškite užpildydami šią formą.
 
 <a href="https://goo.gl/wMygUc" target="blank">Užpildykite formą</a>
 
@@ -19,15 +17,18 @@ Apie dalyvavimą praneškite užpildydami šią formą ⚐
 
 # [](#header-1) Sutikimo vakarėlis
 
-Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti keliems gėrimams! Tai puiki proga susipažinti su kitais vestuvių svečiais.
+Penktadienio vakare, Rugpjūčio 24d. 2018, daugiau detalių pranešime vėliau.
+
+Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti keliems gėrimams! Tai puiki proga susipažinti ir pabendrauti su kitais vestuvių svečiais.
 
 
 # [](#header-1) Vestuvių dieną
 
-Vestuvių ceremonija vyks Vilniaus miesto rotušėje. Ceremonija prasidės 13 val. Prašome atvykti 15-20 minučių anksčiau, kad galėtumėte su visais pasisveikinti ir susirasti menę kurioje vyks ceremonija.
+Vestuvių ceremonija vyks Vilniaus miesto rotušėje 13 val.
 
-Po trumpos ceremonijos (20 min.), mes persikelsime į kitą menę pakelti taurę burbuliukų.
-Oficiali dalis baigsis 14 val., ir visi trauksime į Šmotiškio kaimą tęsti šventės su nakvyne.
+Prašome atvykti 15-20 minučių anksčiau, kad turėtumėte užtektinai laiko visais pasisveikinti ir surasti menę kurioje vyks ceremonija.
+
+Po ceremonijos persikelsime į kitą menę pakelti taurę burbuliukų.
 
 
 ![Rotuse]({{ "/rotuse.jpg" }})
@@ -36,16 +37,16 @@ Oficiali dalis baigsis 14 val., ir visi trauksime į Šmotiškio kaimą tęsti �
 
 # [](#header-1) Kas toliau?
 
-Oficiali dalis pasibaigs apie 14:00h ir visi svečiai bus laukiami Šmotiškio kaime kur tęsime linksmybes! Šventė Šmotiškio kaime prasidės 16:00h, tačiau galite atvykti anksčiau, įsikurti, pabendrauti su paukščiukais ir avelėm, apžiūrėti pievas ir susipažinti su arkliukais.
+Oficiali dalis pasibaigs apie 14 val ir visi trauksime į Šmotiškio kaimą kur tęsime linksmybes! Šventė Šmotiškio kaime prasidės 16 val, tačiau galite atvykti anksčiau, susipažinti su avelėm, arkliukais ir apžiūrėti vietoves.
 
-Taip pat galite įsikurti palapinių miestelyje ar pirtyje, ar klėtyje :)
+Taip pat galėsite įsikurti palapinių miestelyje ar pirtyje, ar klėtyje :)
 
 ![Palapines]({{ "/palapines.jpg" }})
 {: .text-center}
 
 # [](#header-1) Kaip nuvykti iki Šmotiškio?
 
-Iš Vilniaus važiuokite į Molėtus, Ukmergės kryptimi. Kai pasieksite Molėtus, sekite ženklus į Balninkų kaimą. Likus 3 km iki Balnininku sukite į dešinę 'Laičiai' ir dar parvažiavus apie 1km po dešinę rasite ženklą 'Šmotiškio kaimas' ir E.Skrebės gatvę.
+Iš Vilniaus važiuokite Molėtų kryptimi. Pasiekę Molėtus, važiuokite Ankykščių kryptimi 5km iki posūkio į kairę Balninkai. Toliau pagrindiniu keliu iki posūkio į dešinę Laičiai (11 kilometras), ir galiausiai 1/5 km žvyrkeliu iki posūkio į dešinę Šmotiškis.
 
 Taip pat galite naudoti Google Maps!
 
