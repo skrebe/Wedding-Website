@@ -16,7 +16,7 @@ Please follow this link to confirm your attendance.
 
 # [](#header-1) Pre-wedding drinks
 
-Friday evening, 24th August 2018, Location TBC.
+Friday evening, 24th August 2018, Location Baras vienas.
 
 For those who can make to Vilnius early, we will be hosting a few drinks in Vilnius. It will be a great opportunity to meet and catch up with fellow wedding guests. Hope you see you there!
 
