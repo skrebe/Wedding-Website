@@ -37,6 +37,8 @@ No one can argue flowers are beautiful. But they only last for so long…  So 
 # [](#header-1) Gifts
 Things wear and break, but memories last a lifetime! The greatest gift would be to have you celebrating our BIG day together and creating the most beautiful memories which will make us smile forever! If you would like to pamper us, we would be grateful if you could help us fund our dream honeymoon in Tanzania! We are planning to climb Kilimanjaro, explore African savanna and relax on the turquoise Indian ocean shores in Zanzibar.
 
+[Honeymoon fund](https://prezola.com/wishlists/10188781/)
+
 # [](#header-1) The party
 The official part will finish at 2:00PM and everyone will be heading to the Smotiskio farm for the big celebration and an overnight stay. On your arrival, canapés and drinks will be served. You will also have time to settle in the tents which we will organise.
 
