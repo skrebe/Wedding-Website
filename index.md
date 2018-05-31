@@ -18,7 +18,7 @@ Penktadienio vakare, Rugpjūčio 24d. 2018, daugiau detalių pranešime vėliau.
 Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti! Tai puiki proga susipažinti ir pabendrauti su kitais vestuvių svečiais.
 
 # [](#header-1) Vestuvių ceremonija
-Vestuvių ceremonija vyks Vilniaus miesto rotušėje 13 val.
+Vestuvių ceremonija vyks Vilniaus miesto Rotušėje 13 val.
 
 Prašome atvykti 15-20 minučių anksčiau, kad turėtumėte užtektinai laiko visais pasisveikinti ir surasti menę kurioje vyks ceremonija.
 
@@ -27,12 +27,12 @@ Po ceremonijos persikelsime į kitą menę pakelti taurę burbuliukų.
 ![Rotuse]({{ "/rotuse.jpg" }})
 {: .text-center}
 
-## [](#header-1) Ką apsirengti?
+### [](#header-1) Ką apsirengti?
 Iš karto po ceremonijos, vyksime į sodybą ir tikimės, kad bus saulėta ir šilta. Tačiau gero oro negalime užsakyti ir jei lis sodyboje gali būti balų. Tad apsirenkite puošniai, bet patogiai. Pavyzdžiui, marškiniai ir kelnės ar dieninė suknelė ir megztukas bei patogi avalynė tiks puikiai. Artėjant šventei pasidomėkite orų prognoze ir nepamirškite, kad Rugpjūčio naktys gali būti vėsios! Tad atsiveškite ką nors šilčiau apsirengti saulei nusileidus.
 
 Taip pat nepamirškite patogios ir kasdieninės aprangos antrajai dienai, kurią leisime aktyviai pramogaudami ar ramiai poilsiaudami - kaip tik užsimanysime!
 
-## [](#header-1) Gėlės
+### [](#header-1) Gėlės
 Mes labai mėgstame gėles, jos nuostabios ir labai tinka šventėms! Deja, jos greitai vysta… Tad nešvaistykite laiko ieškodami gėlių ir geriau leiskite sau papildomą valandėlę rytiniam miegui, kad turėtumėte daugiau jėgų vestuvių šventei ir vakarėliui!
 
 # [](#header-1) Dovanos
@@ -44,15 +44,16 @@ Oficiali dalis pasibaigs apie 14 val ir visus kviečiame traukti tiesiai į Šmo
 ![Palapines]({{ "/palapines.jpg" }})
 {: .text-center}
 
-## [](#header-1) Nepamirškite pasiimti
+### [](#header-1) Nepamirškite pasiimti
 * Asmeninių daiktų
 * Rankšluosčio
 * Miegmaišio ar antklodės ir pagalvės
 * Sportbačių
 * Maudymosi kostiumėlio
+* Prožektoriuko
 * Guminių batų (jei lis antrą dieną)
 
-## [](#header-1) Kaip nuvykti iki Šmotiškio?
+### [](#header-1) Kaip nuvykti iki Šmotiškio?
 
 Iš Vilniaus važiuokite Molėtų kryptimi. Pasiekę Molėtus, važiuokite Ankykščių kryptimi 5km iki posūkio į kairę Balninkai. Toliau pagrindiniu keliu iki posūkio į dešinę Laičiai (11 kilometras), ir galiausiai 1/5 km žvyrkeliu iki posūkio į dešinę Šmotiškis.
 
