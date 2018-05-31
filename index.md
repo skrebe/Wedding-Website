@@ -2,15 +2,13 @@
 layout: default
 description: Welcome to Ruta's and Simonas wedding page
 ---
-First level header
-------------------
-------------------
-
 # [](#header-1) Rūta ir Simonas 25.08.2018
+------------------------------------------
+------------------------------------------
 
 [I'd like to read this in a different language](en)
 
-Ši svetainė jums – mūsų mylimieji šeimos nariai ir draugai! Čia su jumis norėtumėme pasidalinti visomis smulkmenomis kurias turite žinoti apie didžiąją dieną! Tikimės, kad ši svetainė padės jums suplanuoti dalyvavimą vestuvėse, nesvarbu ar atvyksite iš arti ar toli :)
+> Ši svetainė jums – mūsų mylimieji šeimos nariai ir draugai! Čia su jumis norėtumėme pasidalinti visomis smulkmenomis kurias turite žinoti apie didžiąją dieną! Tikimės, kad ši svetainė padės jums suplanuoti dalyvavimą vestuvėse, nesvarbu ar atvyksite iš arti ar toli :)
 
 ![Ruta & Simonas](/R&Small.jpg)
 {: .text-center .markdown-body img max-width: 50%; box-sizing: content-box; background-color: #fff; }

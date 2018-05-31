@@ -3,10 +3,12 @@ layout: default
 description: Welcome to Ruta's and Simonas wedding page
 ---
 # [](#header-1) Rūta & Simonas 25.08.2018
+------------------------------------------
+------------------------------------------
 
 [Laba diena, ne čia pataikiau](index)
 
-We have created this website to help our family and friends learn more details and get latest updates about the big day! We hope this will help you with planning the logistics and practicalities, whether you are coming from close or far :)
+> We have created this website to help our family and friends learn more details and get latest updates about the big day! We hope this will help you with planning the logistics and practicalities, whether you are coming from close or far :)
 
 ![Ruta & Simonas](/R&Small.jpg)
 {: .text-center .markdown-body img max-width: 50%; box-sizing: content-box; background-color: #000000;}
