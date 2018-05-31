@@ -11,7 +11,7 @@ description: Welcome to Ruta's and Simonas wedding page
 ![Ruta & Simonas](/R&Small.jpg)
 {: .text-center .markdown-body img max-width: 50%; box-sizing: content-box; background-color: #fff; }
 
-## [](#header-1) Sutikimo vakarėlis
+# [](#header-1) Sutikimo vakarėlis
 
 Penktadienio vakare, Rugpjūčio 24d. 2018, daugiau detalių pranešime vėliau.
 
@@ -27,36 +27,30 @@ Po ceremonijos persikelsime į kitą menę pakelti taurę burbuliukų.
 ![Rotuse]({{ "/rotuse.jpg" }})
 {: .text-center}
 
-## [](#header-1) Gėlės
-Mes labai mėgstame gėles! Ir tikrai neabejojame jų grožiu ‑ jos nuostabios ir labai tinka šventėms! Deja, gėlės greitai vysta… Tad nešvaistykite laiko ieškodami gėlių ir geriau leiskite sau papildomą valandėlę rytiniam miegui, kad turėtumėte daugiau jėgų vestuvių šventei ir vakarėliui!
-
-## [](#header-1) Dovanos
-Daiktai pasensta ir sulūžta, o prisiminimai išlieka visiems laikams! Didžiausia dovana būtų, kad Jūs padėtumėte mums prisiminti vestuvių dieną visą gyvenimą. Tad dalyvaukite ir kartu linksmai praleisime laiką! Jei vis tiek norite ką nors padovanoti, prisidėkite prie mūsų svajonių medaus mėnesio Tanzanijoje ‑ kopiant į Kilimandžarą, tyrinėjant Safari ir mėgaujanatis žydru Indijos vandenynu!!!
-
 ## [](#header-1) Ką apsirengti?
-Apsirenkite taip, kad jums būtų patogu. Pavyzdžiui, marškiniai ir kelnės ar dieninė suknelė ir megztukas bei patogi avalynė tiks puikiai.
+Iš karto po ceremonijos, vyksime į sodybą ir tikimės, kad bus saulėta ir šilta. Tačiau gero oro negalime užsakyti ir jei lis sodyboje gali būti balų. Tad apsirenkite puošniai, bet patogiai. Pavyzdžiui, marškiniai ir kelnės ar dieninė suknelė ir megztukas bei patogi avalynė tiks puikiai. Artėjant šventei pasidomėkite orų prognoze ir nepamirškite, kad Rugpjūčio naktys gali būti vėsios! Tad atsiveškite ką nors šilčiau apsirengti saulei nusileidus.
 
-Iš karto po ceremonijos, vyksime į sodybą ir tikimės, kad bus saulėta ir šilta. Tačiau giedros dienos negalime užsakyti. Jei oras bus nepalankus šventei, sodyboje gali būti balų ir net purvo. Tad formalūs drabužiai sodyboje visai nereikalingi. Artėjant šventei pasidomėkite orų prognoze ir nepamirškite, kad rugpjūčio naktys būna vėsios, tad atsiveškite ką nors šilčiau apsirengti saulei nusileidus.
+Taip pat nepamirškite patogios ir kasdieninės aprangos antrajai dienai, kurią leisime aktyviai pramogaudami ar ramiai poilsiaudami - kaip tik uzsimanysime!
 
-Taip pat nepamirškite patogios ir kasdieninės aprangos antrajai dienai, kurią leisime aktyviai pramogaudami ar ramiai poilsiaudami!
+## [](#header-1) Gėlės
+Mes labai mėgstame gėles, jos nuostabios ir labai tinka šventėms! Deja, gėlės greitai vysta… Tad nešvaistykite laiko ieškodami gėlių ir geriau leiskite sau papildomą valandėlę rytiniam miegui, kad turėtumėte daugiau jėgų vestuvių šventei ir vakarėliui!
+
+# [](#header-1) Dovanos
+Daiktai pasensta ir sulūžta, o prisiminimai išlieka visiems laikams! Didžiausia dovana būtų, kad jūs padėtumėte mums prisiminti vestuvių dieną visą gyvenimą. Tad dalyvaukite ir kartu linksmai praleisime laiką! Jei vis tiek norite ką nors padovanoti, prisidėkite prie mūsų svajonių medaus mėnesio Tanzanijoje ‑ kopiant į Kilimandžarą, tyrinėjant Safari ir mėgaujanatis žydru Indijos vandenynu!!!
 
 # [](#header-1) The vakarėlis
-
-Oficiali dalis pasibaigs apie 14 val ir visi trauksime į Šmotiškio kaimą kur tęsime linksmybes! Šventė Šmotiškio kaime prasidės 16 val, tačiau galite atvykti anksčiau, susipažinti su avelėm, arkliukais ir apžiūrėti vietoves.
-
-Taip pat galėsite įsikurti palapinių miestelyje ar pirtyje, ar klėtyje :)
+Oficiali dalis pasibaigs apie 14 val ir visus kviečiame traukti tiesiai į Šmotiškio kaimą! Atvažiavus jūsų lauks užkandžiai, gėrimai ir linksmybės, taip pat turėsite laiko įsikurti palapinėse (kurias mes suorganizuosime), klėtyje ar namelyje.
 
 ![Palapines]({{ "/palapines.jpg" }})
 {: .text-center}
 
 ## [](#header-1) Nepamirškite pasiimti
 * Asmeninių daiktų
-* Sportbačių 
-* Maudymosi kostiumėlio
-* Guminių batų (jei oras bus prastas)
 * Rankšluosčio
-* Miegmaišio
-* Jei turite galimybę pasiimkite antklodę ir pagalvę.
+* Miegmaišio ar antklodės ir pagalvės
+* Sportbačių
+* Maudymosi kostiumėlio
+* Guminių batų (jei lis antrą dieną)
 
 ## [](#header-1) Kaip nuvykti iki Šmotiškio?
 

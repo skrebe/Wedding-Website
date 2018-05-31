@@ -53,6 +53,7 @@ You can also use this time to set yourself up in your home for the night, whethe
 * Towel
 * Swimming costume
 * Wellies (optional, you might want to have them for the second day if the weather is wet)
+* Flashlight
 * Trainers
 
 ## [](#header-1) How to get to Smotiskis?
