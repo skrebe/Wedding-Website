@@ -15,7 +15,7 @@ description: Welcome to Ruta's and Simonas wedding page
 
 Penktadienio vakare, Rugpjūčio 24d. 2018, daugiau detalių pranešime vėliau.
 
-Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti keliems gėrimams! Tai puiki proga susipažinti ir pabendrauti su kitais vestuvių svečiais.
+Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti! Tai puiki proga susipažinti ir pabendrauti su kitais vestuvių svečiais.
 
 # [](#header-1) Vestuvių ceremonija
 Vestuvių ceremonija vyks Vilniaus miesto rotušėje 13 val.
@@ -30,13 +30,13 @@ Po ceremonijos persikelsime į kitą menę pakelti taurę burbuliukų.
 ## [](#header-1) Ką apsirengti?
 Iš karto po ceremonijos, vyksime į sodybą ir tikimės, kad bus saulėta ir šilta. Tačiau gero oro negalime užsakyti ir jei lis sodyboje gali būti balų. Tad apsirenkite puošniai, bet patogiai. Pavyzdžiui, marškiniai ir kelnės ar dieninė suknelė ir megztukas bei patogi avalynė tiks puikiai. Artėjant šventei pasidomėkite orų prognoze ir nepamirškite, kad Rugpjūčio naktys gali būti vėsios! Tad atsiveškite ką nors šilčiau apsirengti saulei nusileidus.
 
-Taip pat nepamirškite patogios ir kasdieninės aprangos antrajai dienai, kurią leisime aktyviai pramogaudami ar ramiai poilsiaudami - kaip tik uzsimanysime!
+Taip pat nepamirškite patogios ir kasdieninės aprangos antrajai dienai, kurią leisime aktyviai pramogaudami ar ramiai poilsiaudami - kaip tik užsimanysime!
 
 ## [](#header-1) Gėlės
-Mes labai mėgstame gėles, jos nuostabios ir labai tinka šventėms! Deja, gėlės greitai vysta… Tad nešvaistykite laiko ieškodami gėlių ir geriau leiskite sau papildomą valandėlę rytiniam miegui, kad turėtumėte daugiau jėgų vestuvių šventei ir vakarėliui!
+Mes labai mėgstame gėles, jos nuostabios ir labai tinka šventėms! Deja, jos greitai vysta… Tad nešvaistykite laiko ieškodami gėlių ir geriau leiskite sau papildomą valandėlę rytiniam miegui, kad turėtumėte daugiau jėgų vestuvių šventei ir vakarėliui!
 
 # [](#header-1) Dovanos
-Daiktai pasensta ir sulūžta, o prisiminimai išlieka visiems laikams! Didžiausia dovana būtų, kad jūs padėtumėte mums prisiminti vestuvių dieną visą gyvenimą. Tad dalyvaukite ir kartu linksmai praleisime laiką! Jei vis tiek norite ką nors padovanoti, prisidėkite prie mūsų svajonių medaus mėnesio Tanzanijoje ‑ kopiant į Kilimandžarą, tyrinėjant Safari ir mėgaujanatis žydru Indijos vandenynu!!!
+Daiktai pasensta ir sulūžta, o prisiminimai išlieka visiems laikams! Didžiausia dovana būtų, kad jūs padėtumėte mums prisiminti vestuvių dieną visą gyvenimą. Tad dalyvaukite ir kartu linksmai praleisime laiką! Jei vis tiek norite ką nors padovanoti, prisidėkite prie mūsų svajonių medaus mėnesio Tanzanijoje ‑ kopiant į Kilimandžarą, tyrinėjant Afrikos savana ir mėgaujantis žydru Indijos vandenynu!!!
 
 # [](#header-1) The vakarėlis
 Oficiali dalis pasibaigs apie 14 val ir visus kviečiame traukti tiesiai į Šmotiškio kaimą! Atvažiavus jūsų lauks užkandžiai, gėrimai ir linksmybės, taip pat turėsite laiko įsikurti palapinėse (kurias mes suorganizuosime), klėtyje ar namelyje.
