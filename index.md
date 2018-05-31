@@ -5,7 +5,7 @@ description: Welcome to Ruta's and Simonas wedding page
 # [](#header-1) Rūta ir Simonas 25.08.2018
 ------------------------------------------
 
-> [I'd like to read this in a different language](en)
+[I'd like to read this in a different language](en)
 
 Ši svetainė jums – mūsų mylimieji šeimos nariai ir draugai! Čia su jumis norėtumėme pasidalinti visomis smulkmenomis kurias turite žinoti apie didžiąją dieną! Tikimės, kad ši svetainė padės jums suplanuoti dalyvavimą vestuvėse, nesvarbu ar atvyksite iš arti ar toli :)
 

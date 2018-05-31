@@ -5,7 +5,7 @@ description: Welcome to Ruta's and Simonas wedding page
 # [](#header-1) Rūta & Simonas 25.08.2018
 ------------------------------------------
 
-> [Laba diena, ne čia pataikiau](index)
+[Lietuviškai](index)
 
 We have created this website to help our family and friends learn more details and get latest updates about the big day! We hope this will help you with planning the logistics and practicalities, whether you are coming from close or far :)
 
