@@ -38,9 +38,7 @@ Mes labai mėgstame gėles, jos nuostabios ir labai tinka šventėms! Deja, jos 
 # [](#header-1) Dovanos
 Daiktai pasensta ir sulūžta, o prisiminimai išlieka visiems laikams! Didžiausia dovana būtų, kad jūs padėtumėte mums prisiminti vestuvių dieną visą gyvenimą. Tad dalyvaukite ir kartu linksmai praleisime laiką! Jei vis tiek norite ką nors padovanoti, prisidėkite prie mūsų svajonių medaus mėnesio Tanzanijoje ‑ kopiant į Kilimandžarą, tyrinėjant Afrikos savana ir mėgaujantis žydru Indijos vandenynu!!!
 
-[Medaus mėnesio fondas](https://prezola.com/wishlists/10188781/ "Fondas")
-
-I usually search using [Google](https://www.google.com "Google").
+[Medaus mėnesio fondas](https://prezola.com/wishlists/10188781)
 
 # [](#header-1) The vakarėlis
 Oficiali dalis pasibaigs apie 14 val ir visus kviečiame traukti tiesiai į Šmotiškio kaimą! Atvažiavus jūsų lauks užkandžiai, gėrimai ir linksmybės, taip pat turėsite laiko įsikurti palapinėse (kurias mes suorganizuosime), klėtyje ar namelyje.
