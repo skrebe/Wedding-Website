@@ -21,7 +21,7 @@ Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti! Tai pu
 # [](#header-1) Vestuvių ceremonija
 Vestuvių ceremonija vyks Vilniaus miesto Rotušėje 13 val.
 
-Prašome atvykti 15-20 minučių anksčiau, kad turėtumėte užtektinai laiko visais pasisveikinti ir surasti menę kurioje vyks ceremonija.
+Prašome atvykti 15-20 minučių anksčiau, kad turėtumėte užtektinai laiko su visais pasisveikinti ir surasti menę kurioje vyks ceremonija.
 
 Po ceremonijos persikelsime į kitą menę pakelti taurę burbuliukų.
 
