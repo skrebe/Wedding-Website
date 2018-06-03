@@ -59,7 +59,7 @@ The official part will finish at 2:00PM and everyone will be heading to the Smot
 
 From Vilnius follow the direction to Moletai city, then go towards Balninkinkai, at 7 km turn right towards Laiciai, you will see the wedding signs from there!
 
-Or you can just use google maps ;)
+You can also use [Google Maps] (https://www.google.lt/maps/dir//55.3098519,25.2305611/@55.3060661,25.2207332,4938m/data=!3m1!1e3!4m2!4m1!3e0)
 
 The address:
 Moletu Rajonas, Lithuania

@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Welcome to Ruta's and Simonas wedding page
+description: Welcome to Ruta's and Simonas' wedding page
 ---
 # [](#header-1) Rūta ir Simonas 25.08.2018
 ------------------------------------------
@@ -60,7 +60,7 @@ Oficiali dalis pasibaigs apie 14 val ir visus kviečiame traukti tiesiai į Šmo
 
 Iš Vilniaus važiuokite Molėtų kryptimi. Pasiekę Molėtus, važiuokite Ankykščių kryptimi 5km iki posūkio į kairę Balninkai. Toliau pagrindiniu keliu iki posūkio į dešinę Laičiai (11 kilometras), ir galiausiai 1/5 km žvyrkeliu iki posūkio į dešinę Šmotiškis.
 
-Taip pat galite naudoti Google Maps!
+Taip pat galite naudoti [Google Maps](https://www.google.lt/maps/dir//55.3098519,25.2305611/@55.3060661,25.2207332,4938m/data=!3m1!1e3!4m2!4m1!3e0)
 
 Tikslus adresas:
 Molėtų Rajonas, Lietuva
@@ -68,6 +68,7 @@ Molėtų Rajonas, Lietuva
 
 ![smotiskis]({{ "/smotiskis.jpg" }})
 {: .text-center}
+
 
 ```
 Ieva, ačiū už tobulas iliustracijas :)*
