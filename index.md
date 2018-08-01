@@ -14,13 +14,13 @@ description: Welcome to Ruta's and Simonas' wedding page
 
 # [](#header-1) Sutikimo vakarėlis
 
+Tuos, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti! Tai puiki proga susipažinti ir pabendrauti su kitais vestuvių svečiais.
+
 18:00, Rugpjūčio 24d. 2018
 
 Siritus Baras, Aušros Vartų 4, Vilnius 01303, Lithuania
 
 Lokacija [Google maps](https://www.google.co.uk/maps/place/Spiritus+Baras/@54.6761862,25.2887192,15z/data=!4m5!3m4!1s0x0:0xeb884c379f2b9817!8m2!3d54.6761862!4d25.2887192)
-
-Tiems, kurie bus Vilniuje jau penktadienio vakarą, kviečiame susitikti! Tai puiki proga susipažinti ir pabendrauti su kitais vestuvių svečiais.
 
 # [](#header-1) Vestuvių ceremonija
 Vestuvių ceremonija vyks Vilniaus miesto Rotušėje 13 val.
