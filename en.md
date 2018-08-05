@@ -17,7 +17,7 @@ For those who can make to Vilnius early, we will be hosting pre wedding drinks. 
 
 6:00PM, Friday, 24th August 2018
 
-Siritus Baras, Aušros Vartų 4, Vilnius 01303, Lithuania
+Spiritus Baras, Aušros Vartų 4, Vilnius 01303, Lithuania
 
 Directions [Google Maps](https://www.google.co.uk/maps/place/Spiritus+Baras/@54.6761862,25.2887192,15z/data=!4m5!3m4!1s0x0:0xeb884c379f2b9817!8m2!3d54.6761862!4d25.2887192)
 
